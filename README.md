@@ -31,9 +31,7 @@
 ‏DC-Motor-Control-Using-L293D/
 ‏│── skitch.ino
 ‏│── README.md
-‏│── circuit.png
-
-## Movement Sequence
+##Movement Sequence
 
 1. Move forward for 30 seconds.
 2. Move backward for 60 seconds.
